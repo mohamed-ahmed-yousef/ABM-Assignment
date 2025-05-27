@@ -3,15 +3,6 @@
 ## Overview
 This repository contains solutions for the Agile Business Modules PHP programming assessment. The assessment consists of multiple programming challenges designed to evaluate coding skills in a command-line environment.
 
-## Assessment Criteria
-The solutions are evaluated based on the following criteria:
-- Submission timeliness
-- Problem completeness
-- Output accuracy
-- Performance optimization
-- Code readability and style
-- Code quality and organization
-
 ## Requirements
 - Plain PHP implementation (no frameworks)
 - Command-line interface (php-cli mode)
